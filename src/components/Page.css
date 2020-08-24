@@ -1,0 +1,17 @@
+.protected-container, .faq-container {
+    background-color: #fefefe;
+    width: 100%;
+    height: 80vh;
+    margin-top:30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #282828;
+    padding: 20px;
+    
+}
+
+.protected-container img,
+.protected-container iframe {
+    display: block;
+    margin: 40px auto;
+    width: 500px;
+}
